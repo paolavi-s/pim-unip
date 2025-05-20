@@ -9,7 +9,7 @@ Projeto de extensão, ensinando alunos sobre cibersegurança e programação bá
 **Programação basica**
 [1](https://github.com/user-attachments/assets/84c3859d-180e-46cb-88d8-020d44d2da99)
 ![2](https://github.com/user-attachments/assets/c6216606-c1d0-4870-b143-7989246e8d50)
-![3](https://github.com/user-attachments/assets/3b7800c8-db88-4aa9-b484-11ae92cebefe)
+![Shadow ouriço](https://github.com/user-attachments/assets/f41595c3-c460-4f21-ac11-cd9479421772)
 ![4](https://github.com/user-attachments/assets/cf8a4355-de9f-4e48-9c3a-eff0307a0bca)
 ![5](https://github.com/user-attachments/assets/5ff789c2-b2d1-44c3-9534-03cf37b26086)
 ![6](https://github.com/user-attachments/assets/8e5f01ae-1440-430e-a855-0d8b48b0b72b)
