@@ -6,7 +6,7 @@ Projeto de extensão, ensinando alunos sobre cibersegurança e programação bá
 ![2](https://github.com/user-attachments/assets/dc7986b5-9327-4c03-989f-306cf7577dec)
 ![3](https://github.com/user-attachments/assets/5cb11c03-f73f-4446-8d44-0e5e66d495f9)
 
-**Programação básica**
+**Programação basica**
 [1](https://github.com/user-attachments/assets/84c3859d-180e-46cb-88d8-020d44d2da99)
 ![2](https://github.com/user-attachments/assets/c6216606-c1d0-4870-b143-7989246e8d50)
 ![3](https://github.com/user-attachments/assets/3b7800c8-db88-4aa9-b484-11ae92cebefe)
@@ -17,3 +17,5 @@ Projeto de extensão, ensinando alunos sobre cibersegurança e programação bá
 
 **Vídeo no Youtube criando o código proposto na cartilha**
 https://youtu.be/quBRdjoIU0w
+
+
