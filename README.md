@@ -1,5 +1,7 @@
 # pim-unip
-Projeto de extensão, ensinando alunos sobre cibersegurança e programação básica através de cartilhas. Além disso, foi feito um vídeo breve auxuliando a criar um código. 
+Projeto Integrado Multidisciplinar: criação de um código em python de um quiz sobre Cibersegurança, LGPD, Etica e Sustentabilidade e Direitos Humano
+    
+**Projeto de extensão, ensinando alunos sobre cibersegurança e programação básica através de cartilhas. Além disso, foi feito um vídeo breve auxuliando a criar um código.**
 
 **Cibersegurança**
 ![1](https://github.com/user-attachments/assets/64f6678e-89cd-4d0e-965d-61ce05d0aeb1)
@@ -18,4 +20,6 @@ Projeto de extensão, ensinando alunos sobre cibersegurança e programação bá
 **Vídeo no Youtube criando o código proposto na cartilha**
 https://youtu.be/quBRdjoIU0w
 
+**Slide Apresentação**
+[PIM.pptx](https://github.com/user-attachments/files/20427573/PIM.pptx)
 
