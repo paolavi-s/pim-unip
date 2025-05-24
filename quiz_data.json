@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Cibersegurança",
+        "explicacao": "Cibersegurança é o conjunto de práticas, tecnologias e processos utilizados para proteger computadores, redes, programas e dados contra ataques, danos ou acessos não autorizados. Ela é essencial para manter a privacidade das informações, evitar prejuízos financeiros e proteger a integridade de sistemas digitais. Boas práticas incluem usar senhas fortes, autenticação de dois fatores, manter softwares atualizados e evitar clicar em links suspeitos.",
+        "pergunta": "Qual das alternativas representa uma boa prática de cibersegurança?",
+        "opcoes": [
+            "Usar a mesma senha para todas as contas",
+            "Compartilhar senhas por e-mail",
+            "Ativar autenticação de dois fatores",
+            "Desativar o antivírus para melhorar o desempenho"
+        ],
+        "resposta": 3
+    },
+    {
+        "titulo": "Ética e Cidadania",
+        "explicacao": "Ética digital refere-se ao uso responsável e respeitoso da tecnologia. Ser um cidadão digital ético significa respeitar a privacidade alheia, evitar plágio, combater a desinformação e agir com responsabilidade nas redes. A ética digital é fundamental para construir um ambiente virtual seguro, respeitoso e justo para todos.",
+        "pergunta": "O que é considerado comportamento ético no ambiente digital?",
+        "opcoes": [
+            "Copiar conteúdo sem citar fontes",
+            "Respeitar a privacidade e direitos autorais",
+            "Disseminar fake news por diversão",
+            "Usar dados alheios sem permissão"
+        ],
+        "resposta": 2
+    },
+    {
+        "titulo": "Sustentabilidade",
+        "explicacao": "Sustentabilidade digital é o uso consciente dos recursos tecnológicos para minimizar impactos ambientais. Isso envolve escolher equipamentos com menor consumo de energia, prolongar a vida útil de dispositivos, reciclar corretamente eletrônicos e reduzir o consumo excessivo de tecnologia. Essa prática contribui para preservar o meio ambiente e promover um uso mais responsável da tecnologia.",
+        "pergunta": "Qual das ações a seguir mais contribui para a sustentabilidade digital?",
+        "opcoes": [
+            "Descartar eletrônicos no lixo comum",
+            "Utilizar equipamentos com menor consumo energético",
+            "Trocar de celular a cada seis meses",
+            "Deixar dispositivos ligados o tempo todo"
+        ],
+        "resposta": 2
+    },
+    {
+        "titulo": "Direitos Humanos",
+        "explicacao": "Direitos humanos são garantias fundamentais que asseguram dignidade, liberdade e igualdade para todos. No contexto digital, o direito à liberdade de expressão permite que as pessoas compartilhem ideias, opiniões e informações sem censura, desde que não violem outros direitos. Esse direito é essencial para a democracia e para a participação cidadã ativa.",
+        "pergunta": "Qual direito humano fundamental está diretamente relacionado à liberdade de expressão?",
+        "opcoes": [
+            "Direito à propriedade",
+            "Direito à liberdade religiosa",
+            "Direito de emitir opiniões e ideias",
+            "Direito ao voto obrigatório"
+        ],
+        "resposta": 3
+    },
+    {
+        "titulo": "LGPD",
+        "explicacao": "A Lei Geral de Proteção de Dados Pessoais (LGPD) é uma legislação brasileira que regula a coleta, o armazenamento, o uso e o compartilhamento de dados pessoais. Ela garante que os usuários tenham controle sobre suas informações e exige que empresas tratem esses dados com transparência, segurança e consentimento. A LGPD protege a privacidade e evita abusos no uso de dados pessoais.",
+        "pergunta": "O que a LGPD estabelece sobre o tratamento de dados pessoais?",
+        "opcoes": [
+            "Permite coleta sem consentimento",
+            "Garante transparência e controle ao titular dos dados",
+            "Libera o uso indiscriminado por empresas",
+            "Restringe apenas empresas estrangeiras"
+        ],
+        "resposta": 2
+    }
+]
